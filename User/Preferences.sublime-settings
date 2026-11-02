@@ -1,0 +1,29 @@
+{
+    "folder_exclude_patterns":
+    [
+        "__pycache__",
+        ".vscode",
+        ".git",
+        ".idea"
+    ],
+    "rulers":
+    [
+        72,
+        79
+    ],
+    "font_size": 11,
+    "ensure_newline_at_eof_on_save": true,
+    "scroll_past_end": true,
+    "tab_size": 4,
+    "translate_tabs_to_spaces": true,
+    "trim_trailing_white_space_on_save": true,
+    "color_scheme": "Packages/Dracula Color Scheme/Dracula.tmTheme",
+    "theme": "Default Dark.sublime-theme",
+    "editor.minimap.renderCharacters": false,
+    "ignored_packages":[
+    ],
+    "index_files": true,
+    "hide_output_panels_on_change": true,
+    "neovintageous_build_version": 13200,
+    "vintage_start_in_command_mode": true,
+}
